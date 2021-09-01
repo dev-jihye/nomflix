@@ -32,7 +32,7 @@
       "react-app/jest"
     ]
   },
-  "homepage": "https://dev-jihye.github.io/nomflix",
+  "homepage": "https://trusting-newton-fd7879.netlify.app/",
   "browserslist": {
     "production": [
       ">0.2%",
